@@ -1,8 +1,3 @@
-<!--
-Copyright © 2012, Chengbin WANG
-All rights reserved. Not for commercial use
-binbinaus@gmail.com
--->
 
 <?php
 
